@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+h1{
+    width: 250px;
+    margin: 0 auto;
+    font-size: 50px;
+    padding: 40px
+}
+
+.photo{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-image: url(cat.jpg);
+    margin: 0 auto;
+    background-position: center;
+    
+    
+}
+p{
+    
+    width: 600px;
+    margin: 0 auto;
+    font-size: 30px;
+    padding: 100px
+}
